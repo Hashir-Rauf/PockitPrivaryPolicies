@@ -210,9 +210,9 @@ Lahore, Pakistan
 
 General Support: support@exaverse.com
 
-Privacy Inquiries: privacy@pockit.app
+Privacy Inquiries: support@exaverse.com
 
-Data Deletion Requests: https://pockit.app/delete
+Data Deletion Requests: support@exaverse.com
 
 17. Privacy Commitment
 
