@@ -2,131 +2,223 @@
 
                           Terms and Conditions
 
-Effective Date: 2025
+Pockit – Terms and Conditions
 
-Welcome to Pockit
-These Terms and Conditions ("Terms") govern your use of the Pockit mobile application and related services (collectively, the "Service") operated by Exaverse ("Company", "we", "us", or "our"). By using our Service, you agree to these Terms.
+Effective Date: November 1, 2025
+Last Updated: November 1, 2025
 
-1. Acceptance of Terms
-By accessing or using our Service, you agree to be bound by these Terms. If you disagree with any part of these terms, please do not use the Service.
+Welcome to Pockit, a personal finance management application operated by Exaverse Technologies (“Company”, “we”, “us”, or “our”). These Terms and Conditions (“Terms”) govern your use of the Pockit mobile application and related services (collectively, the “Service”).
 
-2. Service Description
-Pockit is a personal finance management application that helps you track expenses, manage budgets, and achieve financial goals. The Service is provided for personal, non-commercial use only.
+By downloading or using the Service, you agree to be bound by these Terms and our Privacy Policy
+. If you do not agree to these Terms, you must not access or use the Service.
+
+1. Service Overview
+
+Pockit is a mobile application that helps users manage their personal finances through budgeting, expense tracking, and goal management. The Service is intended solely for personal and non-commercial use.
+
+2. Acceptance of Terms
+
+By using the Service, you represent that you are at least 18 years old and have the legal capacity to enter into this agreement. If you are using the Service on behalf of an organization, you represent that you are authorized to bind that organization to these Terms.
 
 3. Data Collection and Privacy
-We collect only the minimum data necessary to provide our Service:
 
-Financial data (transactions, budgets, goals) – stored locally on your device and in your personal cloud storage
+We are committed to safeguarding your personal and financial data in accordance with applicable laws and Google Play’s User Data and Data Safety policies.
 
-Account information (email, display name) – for authentication purposes only
+3.1 Information We Collect
 
-Device information – for app functionality and crash reporting
+We collect only the information necessary to operate and improve the Service:
 
-We DO NOT:
+Account Information: Email address and display name (via Google Sign-In) for authentication.
 
-Sell your personal or financial data to third parties
+Financial Data: Transactions, budgets, and goals to provide app functionality.
 
-Use your data for advertising purposes
+Device and Technical Data: Device model, OS version, app usage analytics, and crash logs via Firebase Analytics and Crashlytics.
 
-Share your data except as required by law or with your explicit consent
+Payment Data: Subscription or in-app purchase details processed securely through Google Play Billing.
 
-For complete details, please review our Privacy Policy.
+3.2 Data Use and Linkage
 
-4. Data Storage and Security
-Your financial data is stored:
+All collected data is linked to your user account to provide personalized features and secure access. Data is never used for advertising, marketing, or profiling.
 
-Locally on your device using encrypted storage
+We use this data to:
 
-In your personal Firebase/cloud account
+Authenticate and manage user accounts.
 
-We implement industry-standard security measures including encryption, secure authentication, and regular security updates
+Synchronize and back up financial records.
 
-You are responsible for maintaining the security of your device and account credentials
+Improve reliability and app performance.
 
-5. User Responsibilities
+Process subscriptions and verify payments.
+
+3.3 Data Sharing
+
+We do not sell, rent, or trade your personal or financial data.
+We share data only with trusted service providers essential for app functionality:
+
+Firebase (Google Cloud): Authentication, database storage, analytics, and crash reporting.
+
+Google Play Billing: Secure payment and subscription management.
+
+These providers are contractually obligated to process your data solely for the purposes described and to maintain appropriate security controls.
+
+For full details of how your data is collected, stored, used, and deleted, please refer to our Privacy Policy
+.
+
+4. Data Security and Storage
+
+We apply industry-standard security practices to protect your data:
+
+All remote data is encrypted in transit (HTTPS/TLS) and at rest (AES-256).
+
+Local data is stored using Android Jetpack Security encrypted storage.
+
+Access to data is limited to authorized personnel with strict authentication.
+
+Regular security audits and vulnerability assessments are performed.
+
+You are responsible for maintaining the security of your device and Google account credentials.
+
+5. Data Retention and Deletion
+
+Account data and financial records are retained for as long as your account remains active.
+
+Upon account deletion, all personal and financial data are permanently removed within 30 days, except as required for legal, tax, or fraud-prevention purposes.
+
+Transaction and payment records may be retained for up to seven (7) years to comply with applicable accounting and tax laws.
+
+Crash and analytics data are retained for no longer than 90 days for debugging and improvement.
+
+You can delete your account:
+	Mail us at -> support@exaverse.site
+	within 7 days your request will be entertained
+
+6. Permissions
+
+Pockit requests only the permissions essential for its operation:
+
+Google Sign-In: To authenticate your account.
+
+Internet Access: To sync, back up, and retrieve your data securely.
+
+Billing Permission: To process subscriptions through Google Play Billing.
+
+We provide clear in-app explanations before requesting any permission, and you may revoke them anytime through your device settings.
+
+7. Subscriptions and Payments
+
+Some features may require a paid subscription.
+
+7.1 Billing
+
+All in-app digital purchases and subscriptions are processed exclusively through Google Play Billing. By subscribing, you authorize Google Play to charge your chosen payment method on a recurring basis.
+
+7.2 Renewal and Cancellation
+
+Subscriptions renew automatically unless canceled at least 24 hours before the renewal date.
+You can manage or cancel your subscription anytime via your Google Play Account Settings.
+
+7.3 Trials and Refunds
+
+If offered, free trials automatically convert to paid subscriptions unless canceled before the trial ends. Refunds are handled in accordance with Google Play’s refund policy. For assistance, contact support@exaverse.com
+.
+
+7.4 Pricing Changes
+
+Any price or plan changes will be communicated at least 30 days in advance via in-app or email notification.
+
+8. User Responsibilities
+
 You agree to:
 
-Provide accurate information when using the Service
+Provide accurate and updated information.
 
-Maintain the confidentiality of your account credentials
+Maintain confidentiality of your credentials.
 
-Use the Service in compliance with applicable laws
+Use the Service lawfully and only for personal finance management.
 
-Not attempt to reverse engineer, hack, or compromise the Service
+Not attempt to reverse engineer, hack, or disrupt any component of the Service.
 
-Not use the Service for illegal or fraudulent activities
+We may suspend or terminate your account for violations of these Terms.
 
-6. Subscription and Payments
-We offer subscription plans with additional features. By subscribing:
+9. Children’s Privacy
 
-You authorize recurring charges to your payment method
+Pockit is not intended for children under 18 years of age. We do not knowingly collect or store any personal data from children. If we discover such data, it will be deleted immediately.
 
-Subscriptions auto-renew unless cancelled 24 hours before renewal
+Pockit complies with Google Play’s Families Policy and uses appropriate content ratings to restrict access to minors.
 
-You can cancel anytime through your app store account
+10. Third-Party Services and SDKs
 
-Refunds are handled according to app store policies
+We use third-party services solely for operational functionality:
 
-We may change pricing with 30 days notice to existing subscribers
+Firebase Authentication: User login and account management.
 
-7. Intellectual Property
-The Service, including all content, features, and functionality, is owned by Exaverse and protected by copyright, trademark, and other intellectual property laws. You may not copy, modify, distribute, or create derivative works without our written permission.
+Firebase Firestore: Secure cloud database for personal financial data.
 
-8. Limitation of Liability
-TO THE MAXIMUM EXTENT PERMITTED BY LAW:
+Firebase Analytics: Aggregated, non-identifiable usage metrics.
 
-The Service is provided "AS IS" without warranties of any kind
+Firebase Crashlytics: Error and crash reporting for app improvement.
 
-We are not liable for any indirect, incidental, or consequential damages
+Google Play Billing: Subscription management and payments.
 
-Our total liability shall not exceed the amount you paid for the Service in the past 12 months
+Each third-party service processes data strictly under Google’s and our privacy terms and does not use your data for advertising.
 
-We are not responsible for financial decisions you make based on the Service
+11. Intellectual Property Rights
 
-We are not a financial advisor and do not provide financial advice
+All software, designs, logos, and related intellectual property within Pockit belong exclusively to Exaverse Technologies. You may not copy, modify, or distribute any part of the Service without prior written consent.
 
-9. Account Termination
-We may suspend or terminate your account if:
+12. Limitation of Liability
 
-You violate these Terms
+To the maximum extent permitted by law:
 
-Your account is used for fraudulent activities
+The Service is provided “as is” and “as available”, without any warranties.
 
-Required by law
+We are not liable for indirect, incidental, or consequential damages arising from your use of the Service.
 
-You may delete your account at any time through the app settings. Upon deletion, your data will be permanently removed from our servers within 30 days.
+Our total liability shall not exceed the total subscription amount paid by you in the 12 months preceding the claim.
 
-10. Third-Party Services
-The Service may integrate with third-party services (e.g., Firebase, Google Sign-In). Your use of these services is subject to their respective terms and privacy policies. We are not responsible for third-party services.
+Pockit does not provide financial advice and is not responsible for financial decisions made based on information within the app.
 
-11. Changes to Terms
-We may modify these Terms at any time. We will notify you of material changes via email or in-app notification. Your continued use of the Service after changes constitutes acceptance of the new Terms.
+13. Account Suspension or Termination
 
-12. Governing Law and Disputes
-These Terms are governed by the laws of Pakistan. Any disputes shall be resolved through:
+We reserve the right to suspend or terminate accounts that:
 
-Good faith negotiation first
+Violate these Terms or applicable laws,
 
-Mediation if negotiation fails
+Engage in fraudulent or unauthorized activity, or
 
-Courts of Pakistan as a last resort
+Compromise the security or integrity of the Service.
 
-13. Children’s Privacy
-Our Service is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you believe we have collected such information, please contact us immediately.
+Users may also delete their accounts at any time as outlined in Section 5.
 
-14. Contact Information
-For questions or concerns about these Terms, please contact us at:
+14. Updates to Terms
 
-Email: support@exaverse.com
+We may update these Terms periodically.
+Any material changes will be communicated via email or in-app notice at least 30 days before they take effect.
+The “Effective Date” above will always indicate the most recent revision.
+Continued use of the Service after updates constitutes acceptance of the new Terms.
 
-Address: Exaverse Technologies, Pakistan
+15. Governing Law and Dispute Resolution
 
-Privacy-related inquiries: hashirrauf0321@outlook.com
+These Terms shall be governed by the laws of Pakistan.
+Any dispute shall first be resolved amicably through negotiation.
+If unresolved, it shall proceed to mediation and, as a final resort, to the competent courts of Pakistan.
 
-Support issues: support@exaverse.com
+16. Contact Information
 
-15. Severability
-If any provision of these Terms is found to be unenforceable, the remaining provisions will continue in full force and effect.
+Exaverse Technologies
+Lahore, Pakistan
 
-📌 Your Privacy Matters
-We take your privacy seriously. Your financial data stays on your device and in your personal cloud storage. We never sell your data or use it for advertising.
+General Support: support@exaverse.com
+
+Privacy Inquiries: privacy@pockit.app
+
+Data Deletion Requests: https://pockit.app/delete
+
+17. Privacy Commitment
+
+We take your privacy seriously. Your personal and financial information is encrypted, never sold, and shared only with verified service providers essential to core app operations. Complete transparency about our practices is always available in our Privacy Policy
+.
+
+18. Severability
+
+If any provision of these Terms is deemed invalid or unenforceable, the remaining provisions shall continue in full force and effect.
